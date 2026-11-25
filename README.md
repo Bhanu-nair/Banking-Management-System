@@ -151,13 +151,4 @@ The program checks required text fields, basic phone/email formats, date-of-birt
 - [ ] Test empty input, invalid menu choices, and invalid numeric input.
 - [ ] Run `make clean && make` and check for compiler warnings.
 
-## Author
 
-**Your Name**  
-C Programming Project | Banking Management System
-
-Replace this placeholder with your name and profile links before publishing the repository.
-
-## License
-
-This project is intended for educational use. Add a license file of your choice before publishing or redistributing it.
