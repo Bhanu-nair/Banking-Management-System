@@ -1,0 +1,8 @@
+/build/
+/banking
+/bank_data.dat
+/bank_data.tmp
+*.o
+*.exe
+.vscode/
+.idea/
