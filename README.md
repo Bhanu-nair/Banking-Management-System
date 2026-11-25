@@ -2,8 +2,6 @@
 
 A modular, menu-driven Banking Management System developed in **C (C11)** for educational purposes. The application allows a bank operator to create and manage customer accounts, authenticate account holders with account numbers and PINs, perform deposits and withdrawals, inspect transaction histories, and save records between program runs.
 
-> **Educational project only:** This is a console-based simulation. It is not suitable for real banking or for storing real customer information. PIN storage and the binary file format are not production-grade security mechanisms.
-
 ## Features
 
 - Create customer accounts with generated unique account numbers and four-digit PINs.
@@ -18,33 +16,6 @@ A modular, menu-driven Banking Management System developed in **C (C11)** for ed
 - Save and reload customer and transaction records using a binary data file.
 - Validate user input and handle empty account lists and common invalid entries.
 - Build the multi-file project with a Makefile and strict compiler warnings.
-
-## Prerequisites
-
-- GCC or another C11-compatible compiler
-- GNU Make
-- Linux, macOS, or Windows with WSL (the supplied Makefile uses Unix-style commands)
-
-No third-party libraries are required.
-
-## Build and run
-
-```bash
-make
-make run
-```
-
-Or run the executable directly:
-
-```bash
-./banking
-```
-
-Remove compiled output without deleting saved banking data:
-
-```bash
-make clean
-```
 
 ## Main menu
 
