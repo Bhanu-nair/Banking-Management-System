@@ -1,6 +1,6 @@
 # C Banking Management System
 
-A modular, menu-driven Banking Management System developed in **C (C11)** for educational purposes. The application allows a bank operator to create and manage customer accounts, authenticate account holders with account numbers and PINs, perform deposits and withdrawals, inspect transaction histories, and save records between program runs.
+A modular, menu-driven Banking Management System .The application allows a bank operator to create and manage customer accounts, authenticate account holders with account numbers and PINs, perform deposits and withdrawals, inspect transaction histories, and save records between program runs.
 
 ## Features
 
